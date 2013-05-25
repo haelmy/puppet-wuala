@@ -2,7 +2,7 @@
 
 Puppet module to install the client for the cloud storage service [Wuala](https://www.wuala.com)
 
-[![Build Status](https://travis-ci.org/haelmy/puppet-wuala?branch=master)](https://travis-ci.org/haelmy/puppet-wuala)
+[![Build Status](https://travis-ci.org/haelmy/puppet-wuala.png?branch=master)](https://travis-ci.org/haelmy/puppet-wuala)
 
 ## Usage
 
