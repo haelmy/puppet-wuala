@@ -13,6 +13,7 @@ include wuala
 ## Required Puppet Modules
 
 * `boxen`
+* `java` - either include [puppet-java](https://github.com/boxen/puppet-java) or OS X will offer to install Java for you on the first start
 
 ## Development
 
